@@ -15,7 +15,7 @@ I’m currently developing a personal portfolio to showcase my projects that ble
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.<br>
 - Outside tech, 📝I love to write, 💪🏼 go to the gym, 🎵 listen to music, and 💜 seeing my friends.
-- 📫 Reach out to me at: <a href="sofiabayne21@gmail.com">sofiabayne@gmail.com</a>
+- 📫 Reach out to me at: <a href="sofiabayne21@gmail.com">sofiabayne21@gmail.com</a>
 
 ## My Skills Include
 
